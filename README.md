@@ -7,6 +7,10 @@ Collection of educational tutorials to teach DeepRL.
 ## Books
 - [Sutto and Barto, "Reinforcement Learning: An Introduction"](sutton_barto_rl_texbook/README.md), 2nd edition
 
+## Pytorch
+
+## JAX
+
 ## Mujoco
 - [MuJoCo](https://mujoco.org/)
 
