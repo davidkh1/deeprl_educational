@@ -5,7 +5,7 @@ Collection of educational tutorials to teach DeepRL.
 - [Berkeley CS 285: Deep Reinforcement Learning, Decision Making, and Control](cs285_deeprl_berkely/README.md).
 
 ## Books
-- [Sutto and Barto, "Reinforcement Learning: An Introduction"](sutton_barto_rl_texbook/README.md), 2nd edition
+- Working through [Sutton and Barto, "Reinforcement Learning: An Introduction"](sutton_barto_rl_textbook/README.md), 2nd edition
 
 ## Pytorch
 
